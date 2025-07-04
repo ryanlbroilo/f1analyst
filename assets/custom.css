@@ -1,0 +1,85 @@
+.card-material {
+    background: #22252b !important;
+    border-radius: 15px;
+    box-shadow: 0 2px 12px #0004;
+    padding: 18px 25px;
+    margin-bottom: 20px;
+    color: #fff !important;          
+}
+.card-material * {
+    color: #fff !important;          
+}
+.card-title {
+    font-size: 21px;
+    font-weight: bold;
+    letter-spacing: .2px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.material-row {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    margin: 4px 0 0 0;
+}
+.material-row .material-icon {
+    margin-right: 7px;
+    font-size: 19px;
+}
+
+.card-material .js-plotly-plot,
+.card-material .js-plotly-plot .plotly,
+.card-material .js-plotly-plot .main-svg {
+    background: transparent !important;
+}
+
+.Select-control,
+.Select-menu-outer,
+.Select-value,
+.Select-placeholder,
+.Select-value-label,
+.Select-option {
+    background: #23272f !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    border-radius: 8px !important;
+    border: none;
+}
+
+.Select-control:focus,
+.Select-control.is-focused {
+    box-shadow: 0 0 0 2px #FFD80033 !important;
+    border-color: #FFD800 !important;
+}
+
+.Select-placeholder {
+    color: #ccc !important;
+}
+
+.Select-menu-outer .Select-option {
+    color: #fff !important;
+    background: #23272f !important;
+}
+
+.Select-menu-outer .Select-option.is-focused,
+.Select-menu-outer .Select-option.is-selected {
+    background: #FFD800 !important;
+    color: #23272f !important;
+    font-weight: bold !important;
+}
+
+.Select--single > .Select-control .Select-value .Select-value-label,
+.Select-control .Select-value .Select-value-label {
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.Select-multi-value-wrapper .Select-value-label {
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+div.Select-value-label[role="option"][aria-selected="true"] {
+    color: #fff !important;
+    font-weight: bold !important;
+}

@@ -1,0 +1,5 @@
+dash
+pandas
+plotly
+fastf1
+dash_core_components
