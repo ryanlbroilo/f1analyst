@@ -26,7 +26,7 @@ O sistema permite visualizar e explorar informações detalhadas sobre sessões,
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/F1-Analyst.git
+   git clone https://github.com/ryanlbroilo/F1-Analyst.git
    cd F1-Analyst
    ```
 
